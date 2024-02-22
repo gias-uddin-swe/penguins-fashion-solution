@@ -1,0 +1,26 @@
+.img{
+width: 150px;
+height:100px;
+border: 1px solid  gray;
+}
+
+.left{
+    width: 300px;
+    height:150px;
+    display: flex;
+    /* justify-content: center;
+    align-items:center; */
+    background-color: red;
+}
+.right{
+    width: 300px;
+    height:150px;
+    display: flex;
+    /* justify-content: center;
+    align-items:center; */
+    background-color: rgb(8, 60, 105);
+}
+.div1{
+    display: flex;
+    gap: 20px;
+}
